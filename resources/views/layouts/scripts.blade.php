@@ -12,5 +12,7 @@
 <script src="{{ asset( 'assets/js/custom/modals/create-app.js' ) }}"></script>
 <script src="{{ asset( 'assets/js/custom/modals/upgrade-plan.js' ) }}"></script>
 <script src="{{ asset( 'assets/js/custom/intro.js' ) }}"></script>
+
+@stack('page-scripts')
 <!--end::Page Custom Javascript-->
 <!--end::Javascript-->
