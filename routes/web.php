@@ -14,3 +14,6 @@ use App\Http\Controllers\DashboardController;
 */
 
 Route::get('/', [DashboardController::class, 'index']);
+Route::get('login', function () {
+    return view('login');
+});

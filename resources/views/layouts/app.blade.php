@@ -2,11 +2,10 @@
 <html lang="en">
 	<!--begin::Head-->
 	<head>
-		<title>{{ config('app.name', 'Pertamina PDV') }}</title>
+		<title>{{ config('app.name', 'PT. NATA TERRA RESOURCES') }}</title>
 		<meta charset="utf-8" />
 		<meta name="description" content="Perusahaan Tambang" />		
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="canonical" href="https://preview.keenthemes.com/metronic8" />
 		<link rel="shortcut icon" href="{{ asset( 'assets/media/logos/favicon.ico') }}" />
 
 		<!-- CSRF Token -->
